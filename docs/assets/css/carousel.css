@@ -153,7 +153,6 @@
 .timeline-carousel .slick-active .media-wrapper {
   opacity: 1 !important;
 }
-
 .slick-dots {
   bottom: 60px;
   list-style: none;
@@ -196,6 +195,7 @@
   border-color: #b38c52;
 }
 
+/* No descomentar -> Se encima navpanel de links en versión responsiva 
 .link {
   position: absolute;
   left: 0;
@@ -213,4 +213,4 @@
   font-size: 28px;
   margin-right: 8px;
   color: #fff;
-}
+}*/
